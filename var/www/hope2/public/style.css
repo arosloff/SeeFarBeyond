@@ -1,0 +1,149 @@
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. To learn how to do something, just try searching Google for questions like
+   "how to change link color." */
+
+html { background-color: #770102; }
+
+body {
+  color: #ffffff;
+  margin: 20px;
+  font-family: Arial Black;
+  background-color: #d52027;
+  background-image: url("/tile.png");
+  background-repeat: repeat;
+  text-shadow:
+     -2px -2px 0 #ffffff,
+     -2px -2px 0 #ffffff,
+     -1px -2px 0 #ffffff,
+      0px -2px 0 #ffffff,
+      1px -2px 0 #ffffff,
+      2px -2px 0 #ffffff,
+      2px -2px 0 #ffffff,
+      2px -2px 0 #ffffff,
+      2px -1px 0 #ffffff,
+       2px 0px 0 #ffffff,
+       2px 1px 0 #ffffff,
+       2px 2px 0 #ffffff,
+       2px 2px 0 #ffffff,
+       2px 2px 0 #ffffff,
+       1px 2px 0 #ffffff,
+       0px 2px 0 #ffffff,
+      -1px 2px 0 #ffffff,
+      -2px 2px 0 #ffffff,
+      -2px 2px 0 #ffffff,
+      -2px 2px 0 #ffffff,
+      -2px 1px 0 #ffffff,
+      -2px 0px 0 #ffffff,
+     -2px -1px 0 #ffffff,
+     -2px -2px 0 #ffffff;  
+     
+}
+     
+#icon {
+    position: relative;
+    background-color: #d52027;
+    bottom: 0px;
+}
+#icon img {
+    position: fixed;
+    bottom: 10px;
+    right: 15px;
+    width: 15%
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+#socialMedia {
+    position: relative;
+    background-color: #d52027;
+    bottom: 0px;
+}
+#socialMedia img {
+    position: absolute;
+    right: 17px;
+}
+
+p {
+  margin: 10px;
+}
+
+h1 {
+  margin: 10px;
+  color:#d52027;
+  text-shadow:
+     -3px -3px 0 #ffffff,
+     -2px -3px 0 #ffffff,
+     -1px -3px 0 #ffffff,
+      0px -3px 0 #ffffff,
+      1px -3px 0 #ffffff,
+      2px -3px 0 #ffffff,
+      3px -3px 0 #ffffff,
+      3px -2px 0 #ffffff,
+      3px -1px 0 #ffffff,
+       3px 0px 0 #ffffff,
+       3px 1px 0 #ffffff,
+       3px 2px 0 #ffffff,
+       3px 3px 0 #ffffff,
+       2px 3px 0 #ffffff,
+       1px 3px 0 #ffffff,
+       0px 3px 0 #ffffff,
+      -1px 3px 0 #ffffff,
+      -2px 3px 0 #ffffff,
+      -3px 3px 0 #ffffff,
+      -3px 2px 0 #ffffff,
+      -3px 1px 0 #ffffff,
+      -3px 0px 0 #ffffff,
+     -3px -1px 0 #ffffff,
+     -3px -2px 0 #ffffff;
+}
+
+h2 {
+  margin: 10px;
+  color:#d52027;
+  text-shadow:
+     -3px -3px 0 #ffffff,
+     -2px -3px 0 #ffffff,
+     -1px -3px 0 #ffffff,
+      0px -3px 0 #ffffff,
+      1px -3px 0 #ffffff,
+      2px -3px 0 #ffffff,
+      3px -3px 0 #ffffff,
+      3px -2px 0 #ffffff,
+      3px -1px 0 #ffffff,
+       3px 0px 0 #ffffff,
+       3px 1px 0 #ffffff,
+       3px 2px 0 #ffffff,
+       3px 3px 0 #ffffff,
+       2px 3px 0 #ffffff,
+       1px 3px 0 #ffffff,
+       0px 3px 0 #ffffff,
+      -1px 3px 0 #ffffff,
+      -2px 3px 0 #ffffff,
+      -3px 3px 0 #ffffff,
+      -3px 2px 0 #ffffff,
+      -3px 1px 0 #ffffff,
+      -3px 0px 0 #ffffff,
+     -3px -1px 0 #ffffff,
+     -3px -2px 0 #ffffff;
+}
+
+footer{
+  background-color: #a60f12;
+  border: #770102;
+  padding: 5px;
+  border-top-style: solid;
+}
+
+header{
+  background-color: #a60f12;
+  border: #770102;
+  padding: 5px;
+  border-bottom-style: solid;
+}
+
+

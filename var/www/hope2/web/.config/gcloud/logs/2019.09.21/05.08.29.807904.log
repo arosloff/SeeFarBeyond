@@ -1,0 +1,37 @@
+2019-09-21 05:08:29,809 DEBUG    root            Loaded Command Group: [u'gcloud', u'config']
+2019-09-21 05:08:29,811 DEBUG    root            Loaded Command Group: [u'gcloud', u'config', u'config_helper']
+2019-09-21 05:08:29,813 DEBUG    root            Running [gcloud.config.config-helper] with arguments: [--format: "json"]
+2019-09-21 05:08:30,063 INFO     root            Display format: "default json"
+2019-09-21 05:08:30,066 INFO     ___FILE_ONLY___ {
+  "configuration": {
+    "active_configuration": "default",
+    "properties": {
+      "core": {
+        "account": "1096154357858-compute@developer.gserviceaccount.com",
+        "disable_usage_reporting": "True",
+        "project": "sbuhacks-2019"
+      }
+    }
+  },
+  "credential": {
+    "access_token": "ya29.c.KmCKB4_dMrSRSspl4soyhgHEg3XvnKYVJ390Xkv8ZzIpxsFqHjEOLBdIfWr_tz__oy7pT25JktCAIYPRqr138m5ilFkDahgyfRTDjDlxwGIQfSHDZKD0Z5qD70tVJPo8FKI",
+    "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjBiMGJmMTg2NzQzNDcxYTFlZGNhYzMwNjBkMTI1NmY5ZTQwNTBiYTgiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiIzMjU1NTk0MDU1OS5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsImF6cCI6IjEwNjYzNjI1Mzc3MjE4MDMzNzkxOSIsImV4cCI6MTU2OTA0NjExMCwiaWF0IjoxNTY5MDQyNTEwLCJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJzdWIiOiIxMDY2MzYyNTM3NzIxODAzMzc5MTkifQ.P9ZWkdYjCCaRLqOekol8q0iPnkrsuxoGBlyUK7wcwJK3haqY6ikhFLxAwZccpr7sSOSgD8sTHWv1rLA0YJ1lyqjbo3JKt61zn6arulJLtqoN1LEJ2cPMU1HSH8BK9JPUd4_D4I1Xr0alwArVPzdZQcQqfQDipwWxDcaX6fplo6J97WucCOw1K8uZ7NOnm1zWTeb03yHWLdW8agzgr3tWanJZJ4pHnV3qBvBXqZ-Zl6MMbOd0c-J1lFGxH5gZSBNxJrEnSQ3nWOmKt_lEHl4hM7mVa11ftC7rqGOUxMdm11nTjf422A6XDy_1owit2BXRFEhS5FKcuS9-mOQWREAyww",
+    "token_expiry": "2019-09-21T06:06:44Z"
+  },
+  "sentinels": {
+    "config_sentinel": "/home/abraham_rosloff/.config/gcloud/config_sentinel"
+  }
+}
+2019-09-21 05:08:30,066 INFO     ___FILE_ONLY___ 
+
+2019-09-21 05:08:30,066 DEBUG    root            [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/snap/google-cloud-sdk/99/lib/googlecloudsdk/calliope/cli.py", line 983, in Execute
+    resources = calliope_command.Run(cli=self, args=args)
+  File "/snap/google-cloud-sdk/99/lib/googlecloudsdk/calliope/backend.py", line 786, in Run
+    display_info=self.ai.display_info).Display()
+  File "/snap/google-cloud-sdk/99/lib/googlecloudsdk/calliope/display.py", line 495, in Display
+    log.out.flush()
+  File "/snap/google-cloud-sdk/99/lib/googlecloudsdk/core/log.py", line 249, in flush
+    self.__stream_wrapper.stream.flush()
+IOError: [Errno 32] Broken pipe

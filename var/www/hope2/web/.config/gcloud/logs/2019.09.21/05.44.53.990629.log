@@ -1,0 +1,27 @@
+2019-09-21 05:44:54,025 DEBUG    root            Loaded Command Group: [u'gcloud', u'config']
+2019-09-21 05:44:54,028 DEBUG    root            Loaded Command Group: [u'gcloud', u'config', u'config_helper']
+2019-09-21 05:44:54,033 DEBUG    root            Running [gcloud.config.config-helper] with arguments: [--format: "json"]
+2019-09-21 05:44:54,141 INFO     root            Display format: "default json"
+2019-09-21 05:44:54,142 INFO     ___FILE_ONLY___ {
+  "configuration": {
+    "active_configuration": "default",
+    "properties": {
+      "core": {
+        "account": "1096154357858-compute@developer.gserviceaccount.com",
+        "disable_usage_reporting": "True",
+        "project": "sbuhacks-2019"
+      }
+    }
+  },
+  "credential": {
+    "access_token": "ya29.c.KmCKB0LIRSJNPFrfcP2G4sIIULitl9DJZ5csJC-lmOBfgHIqqVMlo22_Xmcj5mRXpBUNCizUrem8qdDbaLY4jWZmKom5pJC03m141VzX1hJhjsS90AsPaxpR1TYtmESte90",
+    "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjBiMGJmMTg2NzQzNDcxYTFlZGNhYzMwNjBkMTI1NmY5ZTQwNTBiYTgiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiIzMjU1NTk0MDU1OS5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsImF6cCI6IjEwNjYzNjI1Mzc3MjE4MDMzNzkxOSIsImV4cCI6MTU2OTA0ODI5NCwiaWF0IjoxNTY5MDQ0Njk0LCJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJzdWIiOiIxMDY2MzYyNTM3NzIxODAzMzc5MTkifQ.xThFajVrRBCrzncLg9M53B3ym7SKx9YbQVYaVw5zNFZaWnpn61bknJH0O-JucogElMfQC5dAJ_Ned3uqHoonfxQI2dcW5Ge17ryQnVSZwW56rlovWnzDRCUCKDd9e4aq6cnG0cNcMrV_QUiasrA3twq83afZ-S5k-67-OzLilS8W85U1c3t2Chb45q4SyE552oO_LqVaS5MogXc8NmE2W3rr70w_6risP1tjujMl4vvfQpa8M6j6gMFyuPJbEwJNkBaABS5UZK33UyZqJW6b7iCzRSayDUl3dEdfPoVG0bvrA-DxG71Bm3CV4HDkd9CsK34_ZRXQpKOR0gLTMWZABA",
+    "token_expiry": "2019-09-21T06:44:53Z"
+  },
+  "sentinels": {
+    "config_sentinel": "/home/abraham_rosloff/.config/gcloud/config_sentinel"
+  }
+}
+2019-09-21 05:44:54,142 INFO     ___FILE_ONLY___ 
+
+2019-09-21 05:44:54,143 DEBUG    root            SDK update checks are disabled.
