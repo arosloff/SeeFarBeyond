@@ -1,0 +1,571 @@
+Xsession: X session started for valentina_pogudina at Sat Sep 21 05:44:56 UTC 2019
+dbus-update-activation-environment: setting DISPLAY=:1
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:valentina_pogudina being added to access control list
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+dbus-update-activation-environment: setting LESSOPEN=| /usr/bin/lesspipe %s
+dbus-update-activation-environment: setting VNCDESKTOP=X
+dbus-update-activation-environment: setting MAIL=/var/mail/valentina_pogudina
+dbus-update-activation-environment: setting USER=valentina_pogudina
+dbus-update-activation-environment: setting SSH_CLIENT=74.125.77.96 39450 22
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting HOME=/home/valentina_pogudina
+dbus-update-activation-environment: setting SSH_TTY=/dev/pts/3
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-gljdDFaSdM,guid=92c70ed974061a467895f6695d85b8d8
+dbus-update-activation-environment: setting LOGNAME=valentina_pogudina
+dbus-update-activation-environment: setting _=/usr/bin/vncserver
+dbus-update-activation-environment: setting TERM=xterm-256color
+dbus-update-activation-environment: setting PATH=/home/valentina_pogudina/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1002
+dbus-update-activation-environment: setting DISPLAY=:1
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting XKL_XMODMAP_DISABLE=1
+dbus-update-activation-environment: setting LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+dbus-update-activation-environment: setting SSH_AUTH_SOCK=/tmp/ssh-QZ8IxibcMI/agent.20292
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting LESSCLOSE=/usr/bin/lesspipe %s %s
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1002/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/valentina_pogudina
+dbus-update-activation-environment: setting SSH_CONNECTION=74.125.77.96 39450 10.128.0.2 22
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+/usr/bin/x-session-manager: X server already running on display :1
+Xlib:  extension "RANDR" missing on display ":1".
+gpg-agent[567]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:558): xfce4-session-WARNING **: 05:44:56.968: gpg-agent returned no PID in the variables
+
+(xfce4-session:558): xfce4-session-WARNING **: 05:44:56.980: xfsm_manager_load_session: Something wrong with /home/valentina_pogudina/.cache/sessions/xfce4-session-sbuhacks-2019:1, Does it exist? Permissions issue?
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+
+(xfwm4:571): xfwm4-WARNING **: 05:44:57.068: The display does not support the XRender extension.
+
+(xfwm4:571): xfwm4-WARNING **: 05:44:57.068: The display does not support the XRandr extension.
+
+(xfwm4:571): xfwm4-WARNING **: 05:44:57.069: The display does not support the XComposite extension.
+
+(xfwm4:571): xfwm4-WARNING **: 05:44:57.069: The display does not support the XDamage extension.
+
+(xfwm4:571): xfwm4-WARNING **: 05:44:57.069: The display does not support the XFixes extension.
+
+(xfwm4:571): xfwm4-WARNING **: 05:44:57.069: Compositing manager disabled.
+
+(xfsettingsd:581): xfsettingsd-CRITICAL **: 05:44:57.092: No RANDR extension found in display :1.0. Display settings won't be applied.
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+
+(xfsettingsd:581): xfsettingsd-CRITICAL **: 05:44:57.092: XI is not present.
+
+(xfsettingsd:581): xfsettingsd-CRITICAL **: 05:44:57.092: Failed to initialize the Xkb extension.
+
+(xfsettingsd:581): xfsettingsd-CRITICAL **: 05:44:57.092: Failed to initialize the Accessibility extension.
+
+(xfsettingsd:581): GLib-CRITICAL **: 05:44:57.093: g_str_has_prefix: assertion 'prefix != NULL' failed
+
+(xfsettingsd:581): GLib-GObject-CRITICAL **: 05:44:57.095: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
+
+(xfsettingsd:581): GLib-GObject-CRITICAL **: 05:44:57.099: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
+Xlib:  extension "RANDR" missing on display ":1.0".
+
+(xfwm4:571): GLib-CRITICAL **: 05:44:57.103: g_str_has_prefix: assertion 'prefix != NULL' failed
+
+(xfsettingsd:581): GLib-CRITICAL **: 05:44:57.117: g_hash_table_destroy: assertion 'hash_table != NULL' failed
+
+(xfsettingsd:581): GLib-GObject-CRITICAL **: 05:44:57.117: object XklEngine 0x55b180974060 finalized while still in-construction
+
+(xfsettingsd:581): GLib-GObject-CRITICAL **: 05:44:57.117: Custom constructor for class XklEngine returned NULL (which is invalid). Please use GInitable instead.
+Xlib:  extension "RANDR" missing on display ":1.0".
+
+(xfce4-session:558): Gtk-WARNING **: 05:44:57.169: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:558): Gtk-WARNING **: 05:44:57.169: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:558): Gtk-WARNING **: 05:44:57.169: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:558): Gtk-WARNING **: 05:44:57.220: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:558): Gtk-WARNING **: 05:44:57.221: Unable to locate theme engine in module_path: "pixmap",
+Xlib:  extension "RANDR" missing on display ":1.0".
+
+(xfdesktop:579): Gtk-WARNING **: 05:44:57.285: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:579): Gtk-WARNING **: 05:44:57.286: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:579): Gtk-WARNING **: 05:44:57.286: Unable to locate theme engine in module_path: "pixmap",
+Xlib:  extension "RANDR" missing on display ":1.0".
+
+(migrate:588): Gtk-WARNING **: 05:44:57.337: Unable to locate theme engine in module_path: "pixmap",
+
+(migrate:588): Gtk-WARNING **: 05:44:57.337: Unable to locate theme engine in module_path: "pixmap",
+
+(migrate:588): Gtk-WARNING **: 05:44:57.337: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:579): Gtk-WARNING **: 05:44:57.346: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:579): Gtk-WARNING **: 05:44:57.346: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:571): xfwm4-WARNING **: 05:44:57.361: The property '/general/double_click_distance' of type int is not supported
+
+(migrate:588): Gtk-WARNING **: 05:44:57.395: Unable to locate theme engine in module_path: "pixmap",
+
+(migrate:588): Gtk-WARNING **: 05:44:57.396: Unable to locate theme engine in module_path: "pixmap",
+xfwm4-Message: 05:44:58.063: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 05:44:58.122: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 05:44:58.206: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 05:44:58.272: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 05:44:58.313: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 05:44:58.348: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 05:44:58.388: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 05:44:58.422: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 05:44:58.460: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 05:44:58.494: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 05:44:58.536: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 05:44:58.569: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 05:44:58.609: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 05:44:58.644: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 05:44:58.682: Unsupported keyboard modifier '<Super>Tab'
+
+(xfwm4:571): xfwm4-WARNING **: 05:44:58.688: Cannot find visual format on screen 0
+
+(xfwm4:571): Gtk-WARNING **: 05:44:58.697: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:571): Gtk-WARNING **: 05:44:58.697: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:571): Gtk-WARNING **: 05:44:58.698: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:571): Gtk-WARNING **: 05:44:58.703: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:571): Gtk-WARNING **: 05:44:58.703: Unable to locate theme engine in module_path: "pixmap",
+xfwm4-Message: 05:44:58.754: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 05:44:58.931: Unsupported keyboard modifier '<Super>Tab'
+
+** (xfdesktop:579): WARNING **: 05:44:59.311: Failed to set the background '/usr/share/backgrounds/xfce/xfce-teal.jpg': GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'org.freedesktop.DisplayManager.AccountsService'
+
+(xfce4-panel:575): libxfce4ui-WARNING **: 05:56:20.272: ICE I/O Error
+
+(xfce4-panel:575): libxfce4ui-WARNING **: 05:56:20.272: Disconnected from session manager.
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+Couldn't find a suitable web browser!
+Set the BROWSER environment variable to your desired browser.
+Gtk-Message: 05:56:26.905: GtkDialog mapped without a transient parent. This is discouraged.
+xfwm4-Message: 15:37:55.525: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 16:49:57.492: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 16:51:11.895: Unsupported keyboard modifier '<Super>Tab'
+xfwm4-Message: 17:43:21.715: Unsupported keyboard modifier '<Super>Tab'
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.0.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.0.
+Xsession: X session started for valentina_pogudina at Sat Sep 21 19:32:02 UTC 2019
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1002/bus
+dbus-update-activation-environment: setting DISPLAY=:2
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:valentina_pogudina being added to access control list
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting LESSOPEN=| /usr/bin/lesspipe %s
+dbus-update-activation-environment: setting VNCDESKTOP=X
+dbus-update-activation-environment: setting MAIL=/var/mail/valentina_pogudina
+dbus-update-activation-environment: setting USER=valentina_pogudina
+dbus-update-activation-environment: setting SSH_CLIENT=74.125.77.163 58950 22
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting HOME=/home/valentina_pogudina
+dbus-update-activation-environment: setting SSH_TTY=/dev/pts/1
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1002/bus
+dbus-update-activation-environment: setting LOGNAME=valentina_pogudina
+dbus-update-activation-environment: setting _=/usr/bin/vncserver
+dbus-update-activation-environment: setting TERM=xterm-256color
+dbus-update-activation-environment: setting PATH=/home/valentina_pogudina/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1002
+dbus-update-activation-environment: setting DISPLAY=:2
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting XKL_XMODMAP_DISABLE=1
+dbus-update-activation-environment: setting LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+dbus-update-activation-environment: setting SSH_AUTH_SOCK=/tmp/ssh-TWc8EVudrM/agent.2990
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting LESSCLOSE=/usr/bin/lesspipe %s %s
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1002/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/valentina_pogudina
+dbus-update-activation-environment: setting SSH_CONNECTION=74.125.77.163 58950 10.128.0.2 22
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+/usr/bin/x-session-manager: X server already running on display :2
+Xlib:  extension "RANDR" missing on display ":2".
+gpg-agent[3339]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:3330): xfce4-session-WARNING **: 19:32:03.046: gpg-agent returned no PID in the variables
+
+(xfce4-session:3330): xfce4-session-WARNING **: 19:32:03.048: xfsm_manager_load_session: Something wrong with /home/valentina_pogudina/.cache/sessions/xfce4-session-sbuhacks-2019:2, Does it exist? Permissions issue?
+Xlib:  extension "RANDR" missing on display ":2.0".
+
+(xfwm4:3343): xfwm4-WARNING **: 19:32:03.121: The display does not support the XRender extension.
+
+(xfwm4:3343): xfwm4-WARNING **: 19:32:03.121: The display does not support the XRandr extension.
+
+(xfwm4:3343): xfwm4-WARNING **: 19:32:03.122: The display does not support the XComposite extension.
+
+(xfwm4:3343): xfwm4-WARNING **: 19:32:03.122: The display does not support the XDamage extension.
+
+(xfwm4:3343): xfwm4-WARNING **: 19:32:03.122: The display does not support the XFixes extension.
+
+(xfwm4:3343): xfwm4-WARNING **: 19:32:03.122: Compositing manager disabled.
+Xlib:  extension "RANDR" missing on display ":2.0".
+Xlib:  extension "RANDR" missing on display ":2.0".
+Xlib:  extension "RANDR" missing on display ":2.0".
+
+(xfsettingsd:3354): xfsettingsd-CRITICAL **: 19:32:03.173: No RANDR extension found in display :2.0. Display settings won't be applied.
+
+(xfce4-session:3330): Gtk-WARNING **: 19:32:03.175: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:3330): Gtk-WARNING **: 19:32:03.176: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:3330): Gtk-WARNING **: 19:32:03.176: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:3330): Gtk-WARNING **: 19:32:03.177: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:3330): Gtk-WARNING **: 19:32:03.177: Unable to locate theme engine in module_path: "pixmap",
+Xlib:  extension "XInputExtension" missing on display ":2.0".
+
+(xfsettingsd:3354): xfsettingsd-CRITICAL **: 19:32:03.177: XI is not present.
+
+(xfsettingsd:3354): xfsettingsd-CRITICAL **: 19:32:03.177: Failed to initialize the Xkb extension.
+
+(xfsettingsd:3354): xfsettingsd-CRITICAL **: 19:32:03.178: Failed to initialize the Accessibility extension.
+
+(xfsettingsd:3354): GLib-CRITICAL **: 19:32:03.179: g_str_has_prefix: assertion 'prefix != NULL' failed
+
+(xfce4-panel:3347): Gtk-WARNING **: 19:32:03.181: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:3347): Gtk-WARNING **: 19:32:03.181: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:3347): Gtk-WARNING **: 19:32:03.181: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:3354): GLib-CRITICAL **: 19:32:03.184: g_hash_table_destroy: assertion 'hash_table != NULL' failed
+
+(xfsettingsd:3354): GLib-GObject-CRITICAL **: 19:32:03.184: object XklEngine 0x5574b783c0a0 finalized while still in-construction
+
+(xfsettingsd:3354): GLib-GObject-CRITICAL **: 19:32:03.184: Custom constructor for class XklEngine returned NULL (which is invalid). Please use GInitable instead.
+Xlib:  extension "RANDR" missing on display ":2.0".
+
+(Thunar:3349): Gtk-WARNING **: 19:32:03.217: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:3349): Gtk-WARNING **: 19:32:03.218: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:3349): Gtk-WARNING **: 19:32:03.218: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:3347): Gtk-WARNING **: 19:32:03.239: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:3347): Gtk-WARNING **: 19:32:03.239: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:3349): Gtk-WARNING **: 19:32:03.274: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:3349): Gtk-WARNING **: 19:32:03.274: Unable to locate theme engine in module_path: "pixmap",
+Xlib:  extension "RANDR" missing on display ":2.0".
+
+(xfdesktop:3351): Gtk-WARNING **: 19:32:03.319: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:3351): Gtk-WARNING **: 19:32:03.320: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:3351): Gtk-WARNING **: 19:32:03.320: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:3351): Gtk-WARNING **: 19:32:03.321: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:3351): Gtk-WARNING **: 19:32:03.321: Unable to locate theme engine in module_path: "pixmap",
+xfwm4-Message: 19:32:03.484: Unsupported keyboard modifier '<Super>Tab'
+
+(xfwm4:3343): xfwm4-WARNING **: 19:32:03.508: Cannot find visual format on screen 0
+Xlib:  extension "RANDR" missing on display ":2.0".
+Xlib:  extension "RANDR" missing on display ":2.0".
+
+** (xfdesktop:3351): WARNING **: 19:32:04.108: Failed to set the background '/usr/share/backgrounds/xfce/xfce-teal.jpg': GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'org.freedesktop.DisplayManager.AccountsService'
+wrapper-1.0: Fatal IO error 11 (Resource temporarily unavailable) on X server :2.0.
+wrapper-1.0: Fatal IO error 11 (Resource temporarily unavailable) on X server :2.0.
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :2.0.
+xfce4-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :2.
+xfce4-panel: Fatal IO error 11 (Resource temporarily unavailable) on X server :2.0.
+Thunar: Fatal IO error 11 (Resource temporarily unavailable) on X server :2.0.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :2.0.
+Xsession: X session started for valentina_pogudina at Sat Sep 21 19:35:53 UTC 2019
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1002/bus
+dbus-update-activation-environment: setting DISPLAY=:3
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:valentina_pogudina being added to access control list
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting LESSOPEN=| /usr/bin/lesspipe %s
+dbus-update-activation-environment: setting VNCDESKTOP=X
+dbus-update-activation-environment: setting MAIL=/var/mail/valentina_pogudina
+dbus-update-activation-environment: setting USER=valentina_pogudina
+dbus-update-activation-environment: setting SSH_CLIENT=74.125.77.163 58950 22
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting HOME=/home/valentina_pogudina
+dbus-update-activation-environment: setting SSH_TTY=/dev/pts/1
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1002/bus
+dbus-update-activation-environment: setting LOGNAME=valentina_pogudina
+dbus-update-activation-environment: setting _=/usr/bin/vncserver
+dbus-update-activation-environment: setting TERM=xterm-256color
+dbus-update-activation-environment: setting PATH=/home/valentina_pogudina/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1002
+dbus-update-activation-environment: setting DISPLAY=:3
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting XKL_XMODMAP_DISABLE=1
+dbus-update-activation-environment: setting LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+dbus-update-activation-environment: setting SSH_AUTH_SOCK=/tmp/ssh-TWc8EVudrM/agent.2990
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting LESSCLOSE=/usr/bin/lesspipe %s %s
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1002/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/valentina_pogudina
+dbus-update-activation-environment: setting SSH_CONNECTION=74.125.77.163 58950 10.128.0.2 22
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+/usr/bin/x-session-manager: X server already running on display :3
+Xlib:  extension "RANDR" missing on display ":3".
+gpg-agent[3687]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:3680): xfce4-session-WARNING **: 19:35:53.792: gpg-agent returned no PID in the variables
+
+(xfce4-session:3680): xfce4-session-WARNING **: 19:35:53.792: xfsm_manager_load_session: Something wrong with /home/valentina_pogudina/.cache/sessions/xfce4-session-sbuhacks-2019:3, Does it exist? Permissions issue?
+Xlib:  extension "RANDR" missing on display ":3.0".
+
+(xfwm4:3690): xfwm4-WARNING **: 19:35:53.846: The display does not support the XRender extension.
+
+(xfwm4:3690): xfwm4-WARNING **: 19:35:53.846: The display does not support the XRandr extension.
+
+(xfwm4:3690): xfwm4-WARNING **: 19:35:53.846: The display does not support the XComposite extension.
+
+(xfwm4:3690): xfwm4-WARNING **: 19:35:53.846: The display does not support the XDamage extension.
+
+(xfwm4:3690): xfwm4-WARNING **: 19:35:53.846: The display does not support the XFixes extension.
+
+(xfwm4:3690): xfwm4-WARNING **: 19:35:53.846: Compositing manager disabled.
+Xlib:  extension "RANDR" missing on display ":3.0".
+Xlib:  extension "RANDR" missing on display ":3.0".
+
+(xfsettingsd:3701): xfsettingsd-CRITICAL **: 19:35:53.891: No RANDR extension found in display :3.0. Display settings won't be applied.
+
+(xfce4-session:3680): Gtk-WARNING **: 19:35:53.893: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:3680): Gtk-WARNING **: 19:35:53.893: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:3680): Gtk-WARNING **: 19:35:53.893: Unable to locate theme engine in module_path: "pixmap",
+Xlib:  extension "XInputExtension" missing on display ":3.0".
+
+(xfsettingsd:3701): xfsettingsd-CRITICAL **: 19:35:53.894: XI is not present.
+
+(xfsettingsd:3701): xfsettingsd-CRITICAL **: 19:35:53.894: Failed to initialize the Xkb extension.
+
+(xfsettingsd:3701): xfsettingsd-CRITICAL **: 19:35:53.898: Failed to initialize the Accessibility extension.
+Xlib:  extension "RANDR" missing on display ":3.0".
+
+(xfce4-session:3680): Gtk-WARNING **: 19:35:53.914: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:3680): Gtk-WARNING **: 19:35:53.915: Unable to locate theme engine in module_path: "pixmap",
+
+(xfsettingsd:3701): GLib-CRITICAL **: 19:35:53.916: g_hash_table_destroy: assertion 'hash_table != NULL' failed
+
+(xfsettingsd:3701): GLib-GObject-CRITICAL **: 19:35:53.916: object XklEngine 0x55cb98d42260 finalized while still in-construction
+
+(xfsettingsd:3701): GLib-GObject-CRITICAL **: 19:35:53.916: Custom constructor for class XklEngine returned NULL (which is invalid). Please use GInitable instead.
+
+(xfce4-panel:3694): Gtk-WARNING **: 19:35:53.917: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:3694): Gtk-WARNING **: 19:35:53.918: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:3694): Gtk-WARNING **: 19:35:53.918: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:3694): Gtk-WARNING **: 19:35:53.948: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-panel:3694): Gtk-WARNING **: 19:35:53.948: Unable to locate theme engine in module_path: "pixmap",
+Xlib:  extension "RANDR" missing on display ":3.0".
+Xlib:  extension "RANDR" missing on display ":3.0".
+
+(xfdesktop:3698): Gtk-WARNING **: 19:35:54.079: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:3698): Gtk-WARNING **: 19:35:54.079: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:3698): Gtk-WARNING **: 19:35:54.080: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:3698): Gtk-WARNING **: 19:35:54.081: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:3698): Gtk-WARNING **: 19:35:54.081: Unable to locate theme engine in module_path: "pixmap",
+xfwm4-Message: 19:35:54.186: Unsupported keyboard modifier '<Super>Tab'
+
+(xfwm4:3690): xfwm4-WARNING **: 19:35:54.191: Cannot find visual format on screen 0
+
+(xfwm4:3690): Gtk-WARNING **: 19:35:54.224: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:3690): Gtk-WARNING **: 19:35:54.224: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:3690): Gtk-WARNING **: 19:35:54.224: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:3690): Gtk-WARNING **: 19:35:54.225: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:3690): Gtk-WARNING **: 19:35:54.226: Unable to locate theme engine in module_path: "pixmap",
+xfwm4-Message: 19:35:54.368: Unsupported keyboard modifier '<Super>Tab'
+Xlib:  extension "RANDR" missing on display ":3.0".
+Xlib:  extension "RANDR" missing on display ":3.0".
+
+** (xfdesktop:3698): WARNING **: 19:35:54.600: Failed to set the background '/usr/share/backgrounds/xfce/xfce-teal.jpg': GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'org.freedesktop.DisplayManager.AccountsService'
+xfwm4: Fatal IO error 4 (Interrupted system call) on X server :3.0.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :3.0.
+Xsession: X session started for valentina_pogudina at Sat Sep 21 19:50:14 UTC 2019
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1002/bus
+dbus-update-activation-environment: setting DISPLAY=:1
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:valentina_pogudina being added to access control list
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting LESSOPEN=| /usr/bin/lesspipe %s
+dbus-update-activation-environment: setting VNCDESKTOP=X
+dbus-update-activation-environment: setting MAIL=/var/mail/valentina_pogudina
+dbus-update-activation-environment: setting USER=valentina_pogudina
+dbus-update-activation-environment: setting SSH_CLIENT=173.194.97.34 53498 22
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting HOME=/home/valentina_pogudina
+dbus-update-activation-environment: setting SSH_TTY=/dev/pts/1
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1002/bus
+dbus-update-activation-environment: setting LOGNAME=valentina_pogudina
+dbus-update-activation-environment: setting _=/usr/bin/vncserver
+dbus-update-activation-environment: setting TERM=xterm-256color
+dbus-update-activation-environment: setting PATH=/home/valentina_pogudina/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1002
+dbus-update-activation-environment: setting DISPLAY=:1
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting XKL_XMODMAP_DISABLE=1
+dbus-update-activation-environment: setting LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+dbus-update-activation-environment: setting SSH_AUTH_SOCK=/tmp/ssh-fMbu3Su6Ke/agent.1620
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting LESSCLOSE=/usr/bin/lesspipe %s %s
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1002/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/valentina_pogudina
+dbus-update-activation-environment: setting SSH_CONNECTION=173.194.97.34 53498 10.128.0.2 22
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+/usr/bin/x-session-manager: X server already running on display :1
+Xlib:  extension "RANDR" missing on display ":1".
+gpg-agent[1717]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:1708): xfce4-session-WARNING **: 19:50:17.439: gpg-agent returned no PID in the variables
+
+(xfce4-session:1708): xfce4-session-WARNING **: 19:50:17.443: xfsm_manager_load_session: Something wrong with /home/valentina_pogudina/.cache/sessions/xfce4-session-sbuhacks-2019:1, Does it exist? Permissions issue?
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+
+(xfsettingsd:1739): xfsettingsd-CRITICAL **: 19:50:17.764: No RANDR extension found in display :1.0. Display settings won't be applied.
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+
+(xfsettingsd:1739): xfsettingsd-CRITICAL **: 19:50:17.767: XI is not present.
+
+(xfsettingsd:1739): xfsettingsd-CRITICAL **: 19:50:17.767: Failed to initialize the Xkb extension.
+
+(xfsettingsd:1739): xfsettingsd-CRITICAL **: 19:50:17.767: Failed to initialize the Accessibility extension.
+
+(xfsettingsd:1739): GLib-CRITICAL **: 19:50:17.831: g_hash_table_destroy: assertion 'hash_table != NULL' failed
+
+(xfsettingsd:1739): GLib-GObject-CRITICAL **: 19:50:17.831: object XklEngine 0x560ce18b4260 finalized while still in-construction
+
+(xfsettingsd:1739): GLib-GObject-CRITICAL **: 19:50:17.831: Custom constructor for class XklEngine returned NULL (which is invalid). Please use GInitable instead.
+
+(Thunar:1727): Gtk-WARNING **: 19:50:17.930: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:1727): Gtk-WARNING **: 19:50:17.932: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:1708): Gtk-WARNING **: 19:50:17.930: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:1708): Gtk-WARNING **: 19:50:17.933: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:1729): Gtk-WARNING **: 19:50:17.931: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:1729): Gtk-WARNING **: 19:50:17.934: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:1708): Gtk-WARNING **: 19:50:17.938: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:1727): Gtk-WARNING **: 19:50:17.938: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:1729): Gtk-WARNING **: 19:50:17.940: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:1729): Gtk-WARNING **: 19:50:17.949: Unable to locate theme engine in module_path: "pixmap",
+
+(xfdesktop:1729): Gtk-WARNING **: 19:50:17.949: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:1727): Gtk-WARNING **: 19:50:17.955: Unable to locate theme engine in module_path: "pixmap",
+
+(Thunar:1727): Gtk-WARNING **: 19:50:17.955: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:1708): Gtk-WARNING **: 19:50:17.954: Unable to locate theme engine in module_path: "pixmap",
+
+(xfce4-session:1708): Gtk-WARNING **: 19:50:17.961: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:1721): xfwm4-WARNING **: 19:50:18.408: The display does not support the XRender extension.
+
+(xfwm4:1721): xfwm4-WARNING **: 19:50:18.408: The display does not support the XRandr extension.
+
+(xfwm4:1721): xfwm4-WARNING **: 19:50:18.408: The display does not support the XComposite extension.
+
+(xfwm4:1721): xfwm4-WARNING **: 19:50:18.408: The display does not support the XDamage extension.
+
+(xfwm4:1721): xfwm4-WARNING **: 19:50:18.408: The display does not support the XFixes extension.
+
+(xfwm4:1721): xfwm4-WARNING **: 19:50:18.408: Compositing manager disabled.
+
+(xfwm4:1721): Gtk-WARNING **: 19:50:18.410: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:1721): Gtk-WARNING **: 19:50:18.411: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:1721): Gtk-WARNING **: 19:50:18.411: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:1721): Gtk-WARNING **: 19:50:18.412: Unable to locate theme engine in module_path: "pixmap",
+
+(xfwm4:1721): Gtk-WARNING **: 19:50:18.412: Unable to locate theme engine in module_path: "pixmap",
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+xfwm4-Message: 19:50:19.664: Unsupported keyboard modifier '<Super>Tab'
+
+(xfwm4:1721): xfwm4-WARNING **: 19:50:19.666: Cannot find visual format on screen 0
+xfwm4-Message: 19:50:19.754: Unsupported keyboard modifier '<Super>Tab'
+
+** (xfdesktop:1729): WARNING **: 19:50:20.626: Failed to set the background '/usr/share/backgrounds/xfce/xfce-teal.jpg': GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'org.freedesktop.DisplayManager.AccountsService'
